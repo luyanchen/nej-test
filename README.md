@@ -1,2 +1,2 @@
 # nej-test
-This id my first project based NEJ
+This is my first project based NEJ
